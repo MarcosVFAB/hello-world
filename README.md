@@ -1,2 +1,3 @@
 # hello-world
 Este repositório é para praticar o fluxo do GitHub
+Sou um profissional com experiência nas áreas administrativa e de segurança pública, tendo atuado como Assistente Administrativo e Escrivão de Polícia Civil, com destaque para gestão documental, arquivologia e inserção e validação de dados em sistemas. Desde julho de 2025, exerço a função de chefia de cartório, coordenando equipes, rotinas e prazos, além de atuar em atividades investigativas com uso de tecnologias, análise e cruzamento de informações. Atualmente, estou em formação em Análise e Desenvolvimento de Sistemas, buscando integrar conhecimentos em tecnologia à minha experiência prática em gestão da informação e investigação.
